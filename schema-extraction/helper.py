@@ -1,7 +1,8 @@
-
+import asyncio
 import json
 from pathlib import Path
 from models import *
+
 
 def load_db(path):
     # Load the database from JSON
@@ -11,17 +12,20 @@ def load_db(path):
     
     return ds
 
-def load_dialogues(path):
+def load_dialogues(path, count=None):
     ds = load_db(path)
+    count = min(count, len(ds)) if count is not None else len(ds)
     dialogues = []
-    for item in ds:
+    for item in ds[:count]:
         dialogues.append(item[0])
     return dialogues
 
-def save_graph(result, path):
-    # Save triplets to JSON
-    output_file = Path("triplets.json")
+def save_graph(results, path):
+    output_file = Path(path)
+    # Ensure parent directory exists
+    output_file.parent.mkdir(parents=True, exist_ok=True)
 
-    # Convert Pydantic models to dicts
-    with output_file.open("w") as f:
-        json.dump([triplet.dict() for triplet in result.relation_triplets], f, indent=2)
+    all_triplets = [triplet.dict() for triplet in results]
+
+    with output_file.open("w", encoding="utf-8") as f:
+        json.dump(all_triplets, f, indent=2, ensure_ascii=False)
