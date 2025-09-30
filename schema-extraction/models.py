@@ -13,6 +13,7 @@ DEV_SET = os.path.join(PROJECT_ROOT, "data", "dev.json")
 TRAIN_SET = os.path.join(PROJECT_ROOT, "data", "train.json")
 TEST_SET = os.path.join(PROJECT_ROOT, "data", "test.json")
 
+OPEN = os.getenv("OPENAI_API_KEY", "")
 class EntityType(str, Enum):
     per = "per"
     org = "org"
@@ -131,10 +132,11 @@ class OptimizedRelationExtractor(dspy.Module):
                 entity_types=ALL_ENTITY_TYPES,
                 relation_types=ALL_RELATION_TYPES,
             )
-            
+                    
+            print(result.relation_triplets)
             # Parse the JSON string output
-            triplets_data = json.loads(result.relation_triplets)
-            
+            triplets_data = json.loads(result.relation_triplets)    
+
             # Convert to RelationTriplet objects with validation
             validated_triplets = []
             for item in triplets_data:

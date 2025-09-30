@@ -1,0 +1,2998 @@
+[
+  {
+    "x": "Joey Tribbiani",
+    "y": "Estelle",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe Buffay",
+    "y": "Joey Tribbiani",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Emma",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Ross Geller",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Jack Geller",
+    "y": "Ross Geller",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Judy Geller",
+    "y": "Ross Geller",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Rachel Green",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ross",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "David",
+    "y": "Phoebe",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Mike Hanagen",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Pete Becker",
+    "y": "Moss 865",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross Geller",
+    "y": "Ph.D.",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Tag",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Ross",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Joanna",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Mark",
+    "y": "Joanna",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Joshua",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Emily",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Tim",
+    "y": "sous chef",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Tim",
+    "y": "Monica",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Tim",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Ursula",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Eric",
+    "y": "Ursula",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Eric",
+    "y": "Teacher",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Masseuse",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "Cassie",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Tim",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Tim",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Tag",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Tag",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Aurora",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Chand-lrr",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Rachel's father",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Mona",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Mona",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Melissa",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ross",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Estelle",
+    "y": "Joey",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Rachel",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler Bing",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Monica Geller",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ross",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Pheebs",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Joey",
+    "y": "Jane Rogers",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Will",
+    "r": "per:schools_attended",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Will",
+    "y": "The I Hate Rachel Green Club",
+    "r": "per:member_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Ross",
+    "y": "The I Hate Rachel Green Club",
+    "r": "per:member_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Joey",
+    "y": "Phoebe",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Days of Our Lives",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Phoebe Buffay",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Jessica Ashley",
+    "y": "Jess",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Joey",
+    "y": "Emma",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Emma",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Chloe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel Green",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Dr. Carlin",
+    "y": "medicine",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "PhD",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rachel",
+    "y": "Mr. Zelner",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Gavin",
+    "y": "Mr. Zelner",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Ross's sister",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Susan",
+    "y": "Ben",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Susan",
+    "y": "Carol",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Jenny Boone",
+    "y": "teacher",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Carol",
+    "y": "Susan",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Carol",
+    "y": "Susan",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Unborn Child",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Carol",
+    "y": "Unborn Child",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Susan",
+    "y": "Unborn Child",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Gary",
+    "y": "NYPD",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Paul",
+    "y": "Paul the Wine Guy",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Janice",
+    "y": "her ex-husband",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Emily",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Rachel",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Joey",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "the other man",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chris",
+    "y": "crematorium",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Chris",
+    "y": "Crematorium Chris",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Amber",
+    "y": "Ramone",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Charlie",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Joey",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Kurt Rathman",
+    "y": "professor",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Kurt Rathman",
+    "y": "paleontology department",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Ross",
+    "y": "Caitlin",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Patrick Ewing",
+    "y": "New York Knicks",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "China",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Heckles",
+    "y": "class clown",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Chandler",
+    "y": "Heckles",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Mark",
+    "y": "fashion",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler Bing",
+    "y": "Joe",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler Bing",
+    "y": "Monica",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ralph Lauren",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Joey",
+    "y": "Days of Our Lives",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Mona",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "May fifth",
+    "r": "per:date_of_birth",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Mona",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "her father",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross Geller",
+    "y": "Doctor",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Ross Geller",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "processing supervisor",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Chandler",
+    "y": "big Al",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "big Al",
+    "y": "Chandler",
+    "r": "org:top_members/employees",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Chandler Bing",
+    "y": "Sonia",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chloe",
+    "y": "Issac",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Issac",
+    "y": "Jasmine",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Jasmine",
+    "y": "Phoebe",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Rachel",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Emma",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Dr. Gettleman",
+    "y": "Doctor",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Chandler",
+    "y": "Monica",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Charlie",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "paleontologist",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "mother",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "father",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "mother",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "father",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Nana",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Nana",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Rach",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Richard",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Michelle",
+    "y": "Henry",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Monica",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "London",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Monica",
+    "y": "London",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Russell",
+    "y": "Ross",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Ross's wife",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ned",
+    "y": "Mr. Morse",
+    "r": "per:student_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Monica",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Monica",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Rachel's sister",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Phoebe's grandmother",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Doctor",
+    "y": "Reverend",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Doctor",
+    "y": "doctor",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Reverend",
+    "y": "reverend",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Chandler",
+    "y": "Monica",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Monica",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "masseuse",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Phoebe",
+    "y": "corporate employee",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Mr. Bing",
+    "y": "Mrs. Bing",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler Bing",
+    "y": "Janice",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Mike",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Monica",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Dr. Drake Remore",
+    "y": "neurosurgeon",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Chandler",
+    "y": "Fred Sanford",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Lennart Haze",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Ben",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Emma",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Pheebs",
+    "y": "The Wheatsheaf",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Doctor Connelly",
+    "y": "Doctor",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Joey",
+    "y": "Eddie",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Eddie",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Jack",
+    "y": "Jack Bing",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Erica",
+    "y": "Erica",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Andr",
+    "y": "Nathan",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Whitney",
+    "y": "Kyle",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Monica",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "his parents",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Emily",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe Buffay",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Ross",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "boss",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Chandler",
+    "y": "his employees",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Ross",
+    "y": "Monica",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Will",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "I Hate Rachel Club",
+    "r": "per:member_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Will",
+    "y": "I Hate Rachel Club",
+    "r": "per:member_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Ross",
+    "y": "I Hate Rachel Club",
+    "r": "org:founded_by",
+    "x_type": "org",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Pheebs",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Phoebe",
+    "y": "New School",
+    "r": "per:student_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Joe",
+    "y": "Italy",
+    "r": "per:origin",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Monica Geller",
+    "y": "Stevie Fisher",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Stevie Fisher",
+    "y": "lawyer",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Stevie Fisher",
+    "y": "his firm",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Ross",
+    "y": "Whitney",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Ursula",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Ursula",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Days Of Our Lives",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Celia",
+    "y": "museum",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Monica",
+    "y": "Richard",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Janice",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Janice",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Janice",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "actor",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Joey",
+    "y": "Queens",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Joey",
+    "y": "seven sisters",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rachel",
+    "y": "Monica",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Julie",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Emily",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "New York City",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Monica",
+    "y": "super aunt",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Mark something",
+    "y": "Bloomingdale's",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Monica",
+    "y": "Ben",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Ursula",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ursula",
+    "y": "restaurant",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Ursula",
+    "y": "Unnamed Spouse",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joe Hill",
+    "y": "Frank Buffay",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joe Hill",
+    "y": "Glenda",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Mindy",
+    "y": "Laurie Schaffer",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Mindy",
+    "y": "Barry",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Lisa",
+    "y": "Ross",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Dan",
+    "y": "Ross",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Angela",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica Bing",
+    "y": "Chandler Bing",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler Bing",
+    "y": "Monica Bing",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica Bing",
+    "y": "chef",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Chandler Bing",
+    "y": "advertising",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Monica Bing",
+    "y": "New York",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Chandler Bing",
+    "y": "New York",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Joey",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Chandler",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Will",
+    "y": "Subway",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Carol",
+    "y": "Susan",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Mr. Stevens",
+    "y": "Elizabeth",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Elizabeth",
+    "y": "Mr. Stevens",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Ross",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "children's hospital",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Joey",
+    "y": "Rachel",
+    "r": "per:student_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Pheebs",
+    "y": "Mike",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Emma",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Pheebs",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Pheebs",
+    "y": "Mon",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Pheebs",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Mon",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Mon",
+    "y": "Chandler",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Gavin Mitchell",
+    "y": "secretary",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "secretary",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rachel Green",
+    "y": "Gavin Mitchell",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Gavin Mitchell",
+    "y": "Mom",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "grandmother",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Days of Our Lives",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Albert",
+    "y": "botanist",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Monica",
+    "y": "Maitre D.",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Rachel Green",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Frankie",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Terry",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Tag",
+    "y": "24",
+    "r": "per:age",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rachel",
+    "y": "Monica",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross Geller",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross Geller",
+    "y": "Monica",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross Geller",
+    "y": "Doctor",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Missy Goldberg",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Adrienne Turner",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Adrienne Turner",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rach",
+    "y": "Raquel",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rach",
+    "y": "Rocky",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rach",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Mike",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Bob Greenmore",
+    "y": "deceased",
+    "r": "per:death_date",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Jethro Tull",
+    "y": "band",
+    "r": "per:profession",
+    "x_type": "org",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "uncle",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "London",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Just Janice",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Arthur Fonzerelli",
+    "y": "Fonzie",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Arthur Fonzerelli",
+    "y": "The Fonz",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "Julie",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Pheebs",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "paleontologist",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rachel",
+    "y": "Gavin",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ross",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Dr. Geller",
+    "y": "Paleontology Department",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Jo",
+    "y": "Laurie",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Laurie",
+    "y": "Amy",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Jo",
+    "y": "Laurie",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Little Women",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "his sister",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Ross",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "ad agency",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Nate",
+    "y": "ad agency",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Chandler",
+    "y": "Charlie",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chip Matthews",
+    "y": "Monica",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chip Matthews",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Emma",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Mike",
+    "y": "Phoebe",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Mike",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ross",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Ross",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Chip Matthews",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Chip Matthews",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chip Matthews",
+    "y": "Amy Welch",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Rachel",
+    "r": "per:schools_attended",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Lowell",
+    "y": "Financial Services",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Brian",
+    "y": "Payroll",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Buffay",
+    "y": "Hannigan",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Buffay",
+    "y": "Buffay-Hannigan",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Buffay",
+    "y": "Hannigan-Buffay",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ned",
+    "y": "Mr. Morse",
+    "r": "per:student_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Pottery Barn",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Phoebe",
+    "y": "twin",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Gary",
+    "y": "upstairs",
+    "r": "per:places_lived",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rachel",
+    "y": "Sarah",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Mandy",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Mandy",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Susan",
+    "y": "Emily",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Susan",
+    "y": "Carol",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Mona",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Mona",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Judy",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Richard",
+    "y": "Unnamed Son",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe Buffay",
+    "y": "Joey Tribbiani",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe Buffay",
+    "y": "Monica Geller",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joe Tribbiani",
+    "y": "Rachel Green",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joe Tribbiani",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Kathy",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Barry Farber",
+    "y": "Rachel Green",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Barry Farber",
+    "y": "Mindy",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Bernice",
+    "y": "Barry Farber",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Monica",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Monica",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Chandler",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ginger",
+    "y": "Pheebs",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Hayley",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Gunther",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Monica",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Monica",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Monica",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Emma",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Emma",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Rach",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Ralph Lauren",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "her office",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Dr. Drake Remoray",
+    "y": "doctor",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Monica",
+    "y": "Jack",
+    "r": "per:parents",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Chandler",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Monica",
+    "y": "Richard",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Amy",
+    "r": "per:siblings",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Amy",
+    "y": "Emma",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chan",
+    "y": "N.Y.U. Med School",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Joe",
+    "y": "professional actor",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rach",
+    "y": "Joe",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Dave Thomas",
+    "y": "Wendy's",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Chandler",
+    "y": "Monica",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Pheebs",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "Rach",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Isabella Rosselini",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "waiter",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Rachel",
+    "y": "waiter",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Joey",
+    "y": "Rachel",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey",
+    "y": "Ross",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Ms. Monroe",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Barry Farber",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Rachel",
+    "y": "Min",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Ross",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler",
+    "y": "Joey",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Phoebe",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Chandler Bing",
+    "y": "Boss Man Bing",
+    "r": "per:title",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Phoebe",
+    "y": "Ben",
+    "r": "per:other_family",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ben",
+    "y": "Doug",
+    "r": "per:friends",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Sting",
+    "y": "Jack",
+    "r": "per:children",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Ross",
+    "y": "Carol",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Carol",
+    "y": "Susan",
+    "r": "per:spouse",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Lauren",
+    "y": "Kate",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Dr. Drake Remoray",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "per"
+  },
+  {
+    "x": "Joey Tribbiani",
+    "y": "Days of Our Lives",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Jill Goodacre",
+    "y": "Victoria's Secret",
+    "r": "per:employee_of",
+    "x_type": "per",
+    "y_type": "org"
+  },
+  {
+    "x": "Jill Goodacre",
+    "y": "model",
+    "r": "per:profession",
+    "x_type": "per",
+    "y_type": "string"
+  },
+  {
+    "x": "Jill Goodacre",
+    "y": "Something Goodacre",
+    "r": "per:alternate_names",
+    "x_type": "per",
+    "y_type": "string"
+  }
+]

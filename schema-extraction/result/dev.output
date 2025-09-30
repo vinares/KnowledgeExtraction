@@ -1,0 +1,817 @@
+[{"x": "Joey Tribbiani", "y": "Estelle", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Phoebe Buffay", "y": "Joey Tribbiani", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+0 ✅ Found 2 triplets in dialogue 1
+[{"x": "Rachel Green", "y": "Emma", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Rachel Green", "y": "Ross Geller", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Jack Geller", "y": "Ross Geller", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Judy Geller", "y": "Ross Geller", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "Rachel Green", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+2 ✅ Found 5 triplets in dialogue 3
+[]
+[]
+[]
+[8 ⚠️ No triplets extracted for dialogue 9
+[7 ⚠️ No triplets extracted for dialogue 8
+[10 ⚠️ No triplets extracted for dialogue 11
+[{"x": "Ross", "y": "Speaker 3", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[3 ⚠️ No triplets extracted for dialogue 4
+[{"x": "David", "y": "Phoebe", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[{"x": "Rachel", "y": "Ross", "r": "per:places_lived", "x_type": "per", "y_type": "per"}]
+9 ✅ Found 2 triplets in dialogue 10
+5 ✅ Found 1 triplets in dialogue 6
+[{"x": "Speaker 3", "y": "Speaker 4", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Speaker 3", "y": "Speaker 1", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Jack", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+[1 ⚠️ No triplets extracted for dialogue 2
+[]
+[6 ⚠️ No triplets extracted for dialogue 7
+[{"x": "Speaker 1", "y": "26", "r": "per:age", "x_type": "per", "y_type": "string"}]
+[4 ⚠️ No triplets extracted for dialogue 5
+[]
+[14 ⚠️ No triplets extracted for dialogue 15
+[]
+[15 ⚠️ No triplets extracted for dialogue 16
+[{"x": "Speaker 1", "y": "Speaker 2", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+[20 ⚠️ No triplets extracted for dialogue 21
+[{"x": "Phoebe", "y": "Tag", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+17 ✅ Found 1 triplets in dialogue 18
+[]
+[11 ⚠️ No triplets extracted for dialogue 12
+[{"x": "Rachel", "y": "Joshua", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Emily", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+19 ✅ Found 3 triplets in dialogue 20
+[{"x": "Richard", "y": "Speaker 4", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[{"x": "Phoebe", "y": "Mike Hanagen", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[21 ⚠️ No triplets extracted for dialogue 22
+12 ✅ Found 1 triplets in dialogue 13
+[{"x": "Ross Geller", "y": "Ph.D.", "r": "per:title", "x_type": "per", "y_type": "string"}]
+16 ✅ Found 1 triplets in dialogue 17
+[]
+[25 ⚠️ No triplets extracted for dialogue 26
+[{"x": "Rachel Green", "y": "Ross", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Rachel Green", "y": "Joanna", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Mark", "y": "Joanna", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+[{"x": "Pete Becker", "y": "Moss 865", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+18 ✅ Found 3 triplets in dialogue 19
+13 ✅ Found 1 triplets in dialogue 14
+[{"x": "Phoebe", "y": "Ursula", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Eric", "y": "Ursula", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Eric", "y": "Teacher", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Phoebe", "y": "Masseuse", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+23 ✅ Found 4 triplets in dialogue 24
+[{"x": "Tim", "y": "sous chef", "r": "per:title", "x_type": "per", "y_type": "string"}, {"x": "Tim", "y": "Monica", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Tim", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+22 ✅ Found 3 triplets in dialogue 23
+[{"x": "Speaker 1", "y": "National Paleontology Conference", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Speaker 1", "y": "Professor Sherman", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "paleontologist", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Speaker 1", "y": "Speaker 2", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Speaker 3", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Speaker 4", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Speaker 5", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[24 ⚠️ No triplets extracted for dialogue 25
+[{"x": "Phoebe Buffay", "y": "Speaker 1", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[26 ⚠️ No triplets extracted for dialogue 27
+[]
+[29 ⚠️ No triplets extracted for dialogue 30
+[{"x": "Estelle", "y": "Joey", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+36 ✅ Found 1 triplets in dialogue 37
+[]
+[37 ⚠️ No triplets extracted for dialogue 38
+[{"x": "Ross", "y": "Cassie", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+27 ✅ Found 1 triplets in dialogue 28
+[]
+[31 ⚠️ No triplets extracted for dialogue 32
+[{"x": "Monica", "y": "Tim", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Phoebe", "y": "Tim", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+28 ✅ Found 3 triplets in dialogue 29
+[{"x": "Rachel", "y": "Melissa", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Ross", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[{"x": "Rachel Green", "y": "Tag", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Phoebe", "y": "Tag", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel Green", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+35 ✅ Found 2 triplets in dialogue 36
+32 ✅ Found 3 triplets in dialogue 33
+[{"x": "Speaker 1", "y": "Mona", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Rachel", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Joey Tribbiani", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[30 ⚠️ No triplets extracted for dialogue 31
+[{"x": "Phoebe", "y": "Pheebs", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+40 ✅ Found 1 triplets in dialogue 41
+[{"x": "Chandler", "y": "Aurora", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Chandler", "y": "Chand-lrr", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}, {"x": "Estelle Leonard Talent Agency", "y": "Speaker 8", "r": "per:employee_of", "x_type": "org", "y_type": "per"}]
+33 ✅ Found 2 triplets in dialogue 34
+[{"x": "Joey", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Rachel", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+38 ✅ Found 2 triplets in dialogue 39
+[{"x": "Ross", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Rachel", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Rachel's father", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Mona", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Mona", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+34 ✅ Found 5 triplets in dialogue 35
+[]
+[43 ⚠️ No triplets extracted for dialogue 44
+[{"x": "Speaker 2", "y": "Katy", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[45 ⚠️ No triplets extracted for dialogue 46
+[{"x": "Joey", "y": "Phoebe", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+44 ✅ Found 1 triplets in dialogue 45
+[{"x": "Joey", "y": "Jane Rogers", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+41 ✅ Found 1 triplets in dialogue 42
+[{"x": "Ross", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+47 ✅ Found 1 triplets in dialogue 48
+[{"x": "Chandler Bing", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Monica Geller", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Ross", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+39 ✅ Found 3 triplets in dialogue 40
+[{"x": "Rachel Green", "y": "Will", "r": "per:schools_attended", "x_type": "per", "y_type": "per"}, {"x": "Will", "y": "The I Hate Rachel Green Club", "r": "per:member_of", "x_type": "per", "y_type": "org"}, {"x": "Ross", "y": "The I Hate Rachel Green Club", "r": "per:member_of", "x_type": "per", "y_type": "org"}]
+42 ✅ Found 3 triplets in dialogue 43
+[{"x": "Joey Tribbiani", "y": "Days of Our Lives", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Joey Tribbiani", "y": "Phoebe Buffay", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+46 ✅ Found 2 triplets in dialogue 47
+[]
+[48 ⚠️ No triplets extracted for dialogue 49
+[]
+[57 ⚠️ No triplets extracted for dialogue 58
+[{"x": "Ross", "y": "Rachel Green", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+52 ✅ Found 1 triplets in dialogue 53
+[{"x": "Speaker 1", "y": "Pheebs", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[54 ⚠️ No triplets extracted for dialogue 55
+[]
+[59 ⚠️ No triplets extracted for dialogue 60
+[{"x": "Ross", "y": "Chloe", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+51 ✅ Found 1 triplets in dialogue 52
+[{"x": "Speaker 2", "y": "Jessica Ashley", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Jessica Ashley", "y": "Jess", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+49 ✅ Found 1 triplets in dialogue 50
+[{"x": "Dr. Carlin", "y": "medicine", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Speaker 2", "y": "Ross", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "PhD", "r": "per:title", "x_type": "per", "y_type": "string"}]
+53 ✅ Found 2 triplets in dialogue 54
+[{"x": "Rachel", "y": "Mr. Zelner", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Gavin", "y": "Mr. Zelner", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+55 ✅ Found 2 triplets in dialogue 56
+[{"x": "Joey", "y": "Emma", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Emma", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+50 ✅ Found 2 triplets in dialogue 51
+[]
+[61 ⚠️ No triplets extracted for dialogue 62
+[]
+[63 ⚠️ No triplets extracted for dialogue 64
+[{"x": "Carol", "y": "Susan", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Unborn Child", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Carol", "y": "Unborn Child", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Susan", "y": "Unborn Child", "r": "per:parents", "x_type": "per", "y_type": "per"}]
+60 ✅ Found 4 triplets in dialogue 61
+[{"x": "Ross", "y": "Ross's sister", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Chandler", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 3", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 3", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+56 ✅ Found 2 triplets in dialogue 57
+[]
+[64 ⚠️ No triplets extracted for dialogue 65
+[
+    {"x": "Susan", "y": "Ben", "r": "per:parents", "x_type": "per", "y_type": "per"},
+    {"x": "Susan", "y": "Carol", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Jenny Boone", "y": "teacher", "r": "per:profession", "x_type": "per", "y_type": "string"},
+    {"x": "Carol", "y": "Susan", "r": "per:spouse", "x_type": "per", "y_type": "per"}
+]
+58 ✅ Found 4 triplets in dialogue 59
+[]
+[65 ⚠️ No triplets extracted for dialogue 66
+[]
+[66 ⚠️ No triplets extracted for dialogue 67
+[{"x": "Paul", "y": "Paul the Wine Guy", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+67 ✅ Found 1 triplets in dialogue 68
+[{"x": "Janice", "y": "her ex-husband", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+68 ✅ Found 1 triplets in dialogue 69
+[]
+[71 ⚠️ No triplets extracted for dialogue 72
+[{"x": "Gary", "y": "NYPD", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+62 ✅ Found 1 triplets in dialogue 63
+[]
+[75 ⚠️ No triplets extracted for dialogue 76
+[
+    {"x": "Speaker 1", "y": "Emily", "r": "per:other_family", "x_type": "per", "y_type": "per"},
+    {"x": "Rachel", "y": "Emily", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 3", "y": "night-club", "r": "org:founded_by", "x_type": "per", "y_type": "org"}
+]
+69 ✅ Found 1 triplets in dialogue 70
+[]
+[74 ⚠️ No triplets extracted for dialogue 75
+[{"x": "Speaker 1", "y": "Chris", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Chris", "y": "crematorium", "r": "per:profession", "x_type": "per", "y_type": "org"}, {"x": "Chris", "y": "Crematorium Chris", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+73 ✅ Found 2 triplets in dialogue 74
+[{"x": "Amber", "y": "Speaker 2", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Amber", "y": "Ramone", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Ramone", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+76 ✅ Found 1 triplets in dialogue 77
+[{"x": "Joey", "y": "Rachel", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Joey", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "the other man", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+72 ✅ Found 3 triplets in dialogue 73
+[{"x": "Phoebe", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Charlie", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Phoebe", "y": "Joey", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+77 ✅ Found 3 triplets in dialogue 78
+[{"x": "Speaker 2", "y": "Dr. Bobby", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Speaker 3", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[79 ⚠️ No triplets extracted for dialogue 80
+[{"x": "Speaker 1", "y": "Marcel", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Patti", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Speaker 4", "y": "Luisa", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[70 ⚠️ No triplets extracted for dialogue 71
+[
+    {"x": "Ross", "y": "Caitlin", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Ross", "y": "Speaker 3", "r": "per:spouse", "x_type": "per", "y_type": "per"}
+]
+80 ✅ Found 1 triplets in dialogue 81
+[{"x": "Kurt Rathman", "y": "professor", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Kurt Rathman", "y": "paleontology department", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Speaker 2", "y": "Monica Geller", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Dr.", "r": "per:title", "x_type": "per", "y_type": "string"}]
+78 ✅ Found 2 triplets in dialogue 79
+[{"x": "Speaker 1", "y": "New York Knicks", "r": "per:member_of", "x_type": "per", "y_type": "org"}, {"x": "Speaker 2", "y": "Boston Celtics", "r": "per:member_of", "x_type": "per", "y_type": "org"}, {"x": "Patrick Ewing", "y": "New York Knicks", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+81 ✅ Found 1 triplets in dialogue 82
+[{"x": "Ross", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Rachel", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "China", "r": "per:places_lived", "x_type": "per", "y_type": "string"}]
+82 ✅ Found 3 triplets in dialogue 83
+[{"x": "Speaker 2", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[89 ⚠️ No triplets extracted for dialogue 90
+[
+    {"x": "Speaker 2", "y": "Emma", "r": "per:other_family", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 4", "y": "Speaker 2", "r": "per:children", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 4", "y": "Emma", "r": "per:parents", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 4's mother", "y": "Aunt Liddy", "r": "per:siblings", "x_type": "per", "y_type": "per"}
+]
+[84 ⚠️ No triplets extracted for dialogue 85
+[{"x": "Speaker 2", "y": "Ralph Lauren", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Speaker 2", "y": "Louis Vuitton", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+[88 ⚠️ No triplets extracted for dialogue 89
+[{"x": "Speaker 1", "y": "Dana Keystone", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Dana Keystone", "r": "per:student_of", "x_type": "per", "y_type": "per"}]
+[85 ⚠️ No triplets extracted for dialogue 86
+[{"x": "Mona", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 4", "y": "Spudnik", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+93 ✅ Found 1 triplets in dialogue 94
+[{"x": "Speaker 1", "y": "Mark", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Mark", "y": "fashion", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+[{"x": "Ross", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Speaker 1", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Speaker 3", "r": "per:children", "x_type": "per", "y_type": "per"}]
+86 ✅ Found 1 triplets in dialogue 87
+87 ✅ Found 1 triplets in dialogue 88
+[{"x": "Rachel", "y": "May fifth", "r": "per:date_of_birth", "x_type": "per", "y_type": "string"}]
+95 ✅ Found 1 triplets in dialogue 96
+[{"x": "Chandler Bing", "y": "Joe", "r": "per:alternate_names", "x_type": "per", "y_type": "per"}, {"x": "Chandler Bing", "y": "Speaker 3", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Chandler Bing", "y": "Monica", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+90 ✅ Found 2 triplets in dialogue 91
+[{"x": "Speaker 2", "y": "Speaker 1", "r": "per:children", "x_type": "per", "y_type": "per"}]
+[98 ⚠️ No triplets extracted for dialogue 99
+[{"x": "Monica", "y": "Phoebe", "r": "per:roommates", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+Skipping invalid relation type: per:roommates
+91 ✅ Found 1 triplets in dialogue 92
+[{"x": "Heckles", "y": "class clown", "r": "per:title", "x_type": "per", "y_type": "string"}, {"x": "Chandler", "y": "Heckles", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+83 ✅ Found 2 triplets in dialogue 84
+[{"x": "Rachel", "y": "Ralph Lauren", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Joey", "y": "Days of Our Lives", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+92 ✅ Found 2 triplets in dialogue 93
+[{"x": "Rachel Green", "y": "her father", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Ross Geller", "y": "Doctor", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Rachel Green", "y": "Ross Geller", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+99 ✅ Found 3 triplets in dialogue 100
+[]
+[104 ⚠️ No triplets extracted for dialogue 105
+[{"x": "Speaker 2", "y": "doctor", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+[96 ⚠️ No triplets extracted for dialogue 97
+[{"x": "Fun Bobby", "y": "Speaker 1's sister", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Fun Bobby", "y": "Speaker 5", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Fun Bobby", "y": "Speaker 3", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[94 ⚠️ No triplets extracted for dialogue 95
+[{"x": "Chandler Bing", "y": "Sonia", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+103 ✅ Found 1 triplets in dialogue 104
+[]
+[107 ⚠️ No triplets extracted for dialogue 108
+[
+    {"x": "Ross", "y": "Rachel", "r": "per:children", "x_type": "per", "y_type": "per"},
+    {"x": "Ross", "y": "Mona", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Rachel", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Joey", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Joey", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}
+]
+97 ✅ Found 5 triplets in dialogue 98
+[{"x": "Rach", "y": "Speaker 1", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[102 ⚠️ No triplets extracted for dialogue 103
+[{"x": "Chandler", "y": "processing supervisor", "r": "per:title", "x_type": "per", "y_type": "string"}, {"x": "Chandler", "y": "big Al", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "big Al", "y": "Chandler", "r": "org:top_members/employees", "x_type": "per", "y_type": "org"}]
+101 ✅ Found 3 triplets in dialogue 102
+[{"x": "Speaker 2", "y": "Mr. Kostelick", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+[105 ⚠️ No triplets extracted for dialogue 106
+[]
+[100 ⚠️ No triplets extracted for dialogue 101
+[]
+[111 ⚠️ No triplets extracted for dialogue 112
+[]
+[110 ⚠️ No triplets extracted for dialogue 111
+[{"x": "Speaker 1", "y": "Eddie", "r": "per:roommates", "x_type": "per", "y_type": "per"}]
+Skipping invalid relation type: per:roommates
+[113 ⚠️ No triplets extracted for dialogue 114
+[{"x": "Rachel", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 4", "y": "Assistant", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+106 ✅ Found 1 triplets in dialogue 107
+[]
+[115 ⚠️ No triplets extracted for dialogue 116
+[]
+[117 ⚠️ No triplets extracted for dialogue 118
+[{"x": "Chandler", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Chandler", "y": "Rachel", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+112 ✅ Found 2 triplets in dialogue 113
+[{"x": "Ross", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+109 ✅ Found 3 triplets in dialogue 110
+[{"x": "Ross", "y": "Rachel", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Chloe", "y": "Issac", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Issac", "y": "Jasmine", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Jasmine", "y": "Phoebe", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Phoebe", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+108 ✅ Found 5 triplets in dialogue 109
+[{"x": "Rachel Green", "y": "Emma", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Dr. Gettleman", "y": "Doctor", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+114 ✅ Found 2 triplets in dialogue 115
+[{"x": "Speaker 1", "y": "Janice", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[120 ⚠️ No triplets extracted for dialogue 121
+[{"x": "Speaker 2", "y": "Joey Tribbiani", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 3", "y": "Joey Tribbiani", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[122 ⚠️ No triplets extracted for dialogue 123
+[]
+[127 ⚠️ No triplets extracted for dialogue 128
+[{"x": "Speaker 2", "y": "Mon", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[125 ⚠️ No triplets extracted for dialogue 126
+[{"x": "Joey", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Charlie", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Speaker 3", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+118 ✅ Found 3 triplets in dialogue 119
+[{"x": "Chandler", "y": "Monica", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+ {"x": "Speaker 2", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+ {"x": "Speaker 1", "y": "Rachel", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+ {"x": "Speaker 1", "y": "Rachel", "r": "per:children", "x_type": "per", "y_type": "per"},
+ {"x": "Speaker 2", "y": "Speaker 1", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+ {"x": "Speaker 2", "y": "Ross", "r": "per:death_date", "x_type": "per", "y_type": "per"}]
+116 ✅ Found 1 triplets in dialogue 117
+[{"x": "Michelle", "y": "Henry", "r": "per:children", "x_type": "per", "y_type": "per"}]
+126 ✅ Found 1 triplets in dialogue 127
+[{"x": "Ross", "y": "paleontologist", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Phoebe", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+119 ✅ Found 2 triplets in dialogue 120
+[]
+[129 ⚠️ No triplets extracted for dialogue 130
+[{"x": "Rachel", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Rach", "r": "per:alternate_names", "x_type": "per", "y_type": "per"}]
+123 ✅ Found 2 triplets in dialogue 124
+[{"x": "Monica", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Richard", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+124 ✅ Found 2 triplets in dialogue 125
+[{"x": "Speaker 1", "y": "Sarah", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[131 ⚠️ No triplets extracted for dialogue 132
+[{"x": "Speaker 1", "y": "Speaker 2", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+[128 ⚠️ No triplets extracted for dialogue 129
+[{"x": "Chandler", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Chandler", "y": "London", "r": "per:places_lived", "x_type": "per", "y_type": "string"}, {"x": "Monica", "y": "London", "r": "per:places_lived", "x_type": "per", "y_type": "string"}]
+130 ✅ Found 3 triplets in dialogue 131
+[{"x": "Russell", "y": "Ross", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Rachel", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+132 ✅ Found 2 triplets in dialogue 133
+[{"x": "Speaker 1", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Chandler", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+135 ✅ Found 1 triplets in dialogue 136
+[{"x": "Ned", "y": "Mr. Morse", "r": "per:student_of", "x_type": "per", "y_type": "per"}]
+134 ✅ Found 1 triplets in dialogue 135
+[]
+[137 ⚠️ No triplets extracted for dialogue 138
+[{"x": "Monica", "y": "mother", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "father", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Rachel", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "mother", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "father", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Nana", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Nana", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+121 ✅ Found 7 triplets in dialogue 122
+[{"x": "Speaker 4", "y": "Speaker 1", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Speaker 4", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Speaker 5", "y": "Roger", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Ross's wife", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+133 ✅ Found 1 triplets in dialogue 134
+[{"x": "Speaker 1", "y": "Ross", "r": "per:places_lived", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Monica", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+136 ✅ Found 1 triplets in dialogue 137
+[]
+[140 ⚠️ No triplets extracted for dialogue 141
+[{"x": "Rachel", "y": "Speaker 2", "r": "per:date", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Speaker 3", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+Skipping invalid relation type: per:date
+[139 ⚠️ No triplets extracted for dialogue 140
+[{"x": "Rachel", "y": "Rachel's sister", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Speaker 3", "y": "Speaker 1", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Phoebe", "y": "Phoebe's grandmother", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+138 ✅ Found 2 triplets in dialogue 139
+[{"x": "Doctor", "y": "Reverend", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Doctor", "y": "doctor", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Reverend", "y": "reverend", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+142 ✅ Found 3 triplets in dialogue 143
+[{"x": "Mr. Bing", "y": "Mrs. Bing", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+146 ✅ Found 1 triplets in dialogue 147
+[{"x": "Ross", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+141 ✅ Found 1 triplets in dialogue 142
+[{"x": "Chandler", "y": "Monica", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+143 ✅ Found 4 triplets in dialogue 144
+[{"x": "Phoebe", "y": "masseuse", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Phoebe", "y": "corporate employee", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Phoebe", "y": "Speaker 2", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+145 ✅ Found 2 triplets in dialogue 146
+[{"x": "Chandler Bing", "y": "Janice", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+147 ✅ Found 1 triplets in dialogue 148
+[{"x": "Speaker 2", "y": "Victor", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[152 ⚠️ No triplets extracted for dialogue 153
+[
+    {"x": "Speaker 2", "y": "Emily Waltham", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Speaker 2", "r": "per:friends", "x_type": "per", "y_type": "per"}
+]
+[144 ⚠️ No triplets extracted for dialogue 145
+[]
+[151 ⚠️ No triplets extracted for dialogue 152
+[{"x": "Speaker 1", "y": "Speaker 3", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Speaker 3", "r": "per:parents", "x_type": "per", "y_type": "per"}]
+[150 ⚠️ No triplets extracted for dialogue 151
+[{"x": "Phoebe", "y": "Mike", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Phoebe", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+148 ✅ Found 2 triplets in dialogue 149
+[{"x": "Joanna", "y": "Speaker 2", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Sophie", "y": "Speaker 2", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Junior Miss", "r": "per:member_of", "x_type": "per", "y_type": "org"}]
+[149 ⚠️ No triplets extracted for dialogue 150
+[{"x": "Dr. Drake Remore", "y": "neurosurgeon", "r": "per:title", "x_type": "per", "y_type": "string"}]
+154 ✅ Found 1 triplets in dialogue 155
+[{"x": "Speaker 3", "y": "Monica", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+[153 ⚠️ No triplets extracted for dialogue 154
+[{"x": "Chandler", "y": "Fred Sanford", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+155 ✅ Found 1 triplets in dialogue 156
+[]
+[159 ⚠️ No triplets extracted for dialogue 160
+[{"x": "Speaker 2", "y": "Mike", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[156 ⚠️ No triplets extracted for dialogue 157
+[]
+[161 ⚠️ No triplets extracted for dialogue 162
+[{"x": "Joey", "y": "Agent", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Lennart Haze", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+157 ✅ Found 1 triplets in dialogue 158
+[{"x": "Pheebs", "y": "The Wheatsheaf", "r": "per:places_lived", "x_type": "per", "y_type": "string"}]
+163 ✅ Found 1 triplets in dialogue 164
+[{"x": "Speaker 3", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[162 ⚠️ No triplets extracted for dialogue 163
+[]
+[168 ⚠️ No triplets extracted for dialogue 169
+[{"x": "David", "y": "Speaker 1", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Mike", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[164 ⚠️ No triplets extracted for dialogue 165
+[{"x": "Doctor Connelly", "y": "Doctor", "r": "per:title", "x_type": "per", "y_type": "string"}]
+165 ✅ Found 1 triplets in dialogue 166
+[{"x": "Ross", "y": "Emma", "r": "per:children", "x_type": "per", "y_type": "per"}]
+160 ✅ Found 1 triplets in dialogue 161
+[{"x": "Chandler", "y": "Ben", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Ben", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+158 ✅ Found 1 triplets in dialogue 159
+[{"x": "Ross", "y": "Speaker 2", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[166 ⚠️ No triplets extracted for dialogue 167
+[{"x": "Jack", "y": "Jack Bing", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Erica", "y": "Erica", "r": "per:children", "x_type": "per", "y_type": "per"}]
+170 ✅ Found 2 triplets in dialogue 171
+[]
+[172 ⚠️ No triplets extracted for dialogue 173
+[]
+[175 ⚠️ No triplets extracted for dialogue 176
+[{"x": "Speaker 2", "y": "Carol", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Andr", "y": "Nathan", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Nathan", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+174 ✅ Found 1 triplets in dialogue 175
+[]
+[173 ⚠️ No triplets extracted for dialogue 174
+[{"x": "Speaker 1", "y": "Gunther", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[167 ⚠️ No triplets extracted for dialogue 168
+[{"x": "Rachel", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+178 ✅ Found 1 triplets in dialogue 179
+[{"x": "Joey", "y": "Eddie", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Eddie", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+169 ✅ Found 2 triplets in dialogue 170
+[]
+[179 ⚠️ No triplets extracted for dialogue 180
+[{"x": "Phoebe", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Whitney", "y": "Kyle", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+176 ✅ Found 2 triplets in dialogue 177
+[]
+[184 ⚠️ No triplets extracted for dialogue 185
+[]
+[182 ⚠️ No triplets extracted for dialogue 183
+[{"x": "Joey Tribbiani", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "his parents", "r": "per:parents", "x_type": "per", "y_type": "per"}]
+177 ✅ Found 5 triplets in dialogue 178
+[
+    {"x": "Speaker 3", "y": "Parker", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Tag", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Janice", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Mona", "r": "per:friends", "x_type": "per", "y_type": "per"}
+]
+[171 ⚠️ No triplets extracted for dialogue 172
+[{"x": "Ross", "y": "Emily", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Phoebe Buffay", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Ross", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+180 ✅ Found 3 triplets in dialogue 181
+[]
+[187 ⚠️ No triplets extracted for dialogue 188
+[{"x": "Phoebe", "y": "Pheebs", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}, {"x": "Phoebe", "y": "New School", "r": "per:student_of", "x_type": "per", "y_type": "org"}, {"x": "Phoebe", "y": "Speaker 3", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+185 ✅ Found 2 triplets in dialogue 186
+[{"x": "Chandler", "y": "boss", "r": "per:title", "x_type": "per", "y_type": "string"}, {"x": "Chandler", "y": "his employees", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+181 ✅ Found 2 triplets in dialogue 182
+[]
+[189 ⚠️ No triplets extracted for dialogue 190
+[{"x": "Joe", "y": "Speaker 2", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joe", "y": "Italy", "r": "per:origin", "x_type": "per", "y_type": "string"}, {"x": "Speaker 2", "y": "China", "r": "per:origin", "x_type": "per", "y_type": "string"}]
+186 ✅ Found 1 triplets in dialogue 187
+[
+    {"x": "Monica Geller", "y": "Stevie Fisher", "r": "per:other_family", "x_type": "per", "y_type": "per"},
+    {"x": "Stevie Fisher", "y": "lawyer", "r": "per:profession", "x_type": "per", "y_type": "string"},
+    {"x": "Stevie Fisher", "y": "his firm", "r": "per:employee_of", "x_type": "per", "y_type": "org"}
+]
+188 ✅ Found 3 triplets in dialogue 189
+[{"x": "Ross", "y": "Whitney", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[]
+190 ✅ Found 1 triplets in dialogue 191
+[194 ⚠️ No triplets extracted for dialogue 195
+[{"x": "Ross", "y": "Monica", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Will", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Rachel", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "I Hate Rachel Club", "r": "per:member_of", "x_type": "per", "y_type": "org"}, {"x": "Will", "y": "I Hate Rachel Club", "r": "per:member_of", "x_type": "per", "y_type": "org"}, {"x": "Ross", "y": "I Hate Rachel Club", "r": "org:founded_by", "x_type": "org", "y_type": "per"}]
+183 ✅ Found 7 triplets in dialogue 184
+[{"x": "Celia", "y": "museum", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+197 ✅ Found 1 triplets in dialogue 198
+[{"x": "Speaker 1", "y": "Joey", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Professor", "r": "per:title", "x_type": "per", "y_type": "string"}]
+[192 ⚠️ No triplets extracted for dialogue 193
+[{"x": "Speaker 1", "y": "Frank", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+[191 ⚠️ No triplets extracted for dialogue 192
+[]
+[193 ⚠️ No triplets extracted for dialogue 194
+[{"x": "Phoebe", "y": "Ursula", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Ursula", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Phoebe", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+195 ✅ Found 3 triplets in dialogue 196
+[]
+[204 ⚠️ No triplets extracted for dialogue 205
+[]
+[206 ⚠️ No triplets extracted for dialogue 207
+[]
+[202 ⚠️ No triplets extracted for dialogue 203
+[{"x": "Speaker 2", "y": "Speaker 1", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Monica", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+[201 ⚠️ No triplets extracted for dialogue 202
+[
+    {"x": "Monica", "y": "Richard", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Chandler", "y": "Janice", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Monica", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Monica", "y": "Janice", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Monica", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Chandler", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Janice", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}
+]
+198 ✅ Found 7 triplets in dialogue 199
+[]
+[208 ⚠️ No triplets extracted for dialogue 209
+[{"x": "Joey", "y": "Speaker 2", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[207 ⚠️ No triplets extracted for dialogue 208
+[{"x": "Rachel", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Rachel", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+200 ✅ Found 2 triplets in dialogue 201
+[]
+[209 ⚠️ No triplets extracted for dialogue 210
+[{"x": "Ross", "y": "Speaker 1", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Speaker 1", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Julie", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+203 ✅ Found 1 triplets in dialogue 204
+[
+    {"x": "Joey Tribbiani", "y": "Days Of Our Lives", "r": "per:employee_of", "x_type": "per", "y_type": "org"}
+]
+196 ✅ Found 1 triplets in dialogue 197
+[
+    {"x": "Joey", "y": "actor", "r": "per:profession", "x_type": "per", "y_type": "string"},
+    {"x": "Joey", "y": "Queens", "r": "per:places_lived", "x_type": "per", "y_type": "string"},
+    {"x": "Joey", "y": "seven sisters", "r": "per:siblings", "x_type": "per", "y_type": "string"},
+    {"x": "Speaker 1", "y": "Speaker 2", "r": "per:siblings", "x_type": "per", "y_type": "per"}
+]
+199 ✅ Found 3 triplets in dialogue 200
+[{"x": "Monica", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+210 ✅ Found 1 triplets in dialogue 211
+[{"x": "Speaker 3", "y": "first-year resident", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Speaker 3", "y": "Doogie", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+[205 ⚠️ No triplets extracted for dialogue 206
+[]
+[211 ⚠️ No triplets extracted for dialogue 212
+[{"x": "Speaker 2", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[216 ⚠️ No triplets extracted for dialogue 217
+[{"x": "Monica", "y": "Ben", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+217 ✅ Found 1 triplets in dialogue 218
+[{"x": "Monica", "y": "super aunt", "r": "per:title", "x_type": "per", "y_type": "string"}]
+214 ✅ Found 1 triplets in dialogue 215
+[{"x": "Ross", "y": "Emily", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "New York City", "r": "per:places_lived", "x_type": "per", "y_type": "string"}]
+213 ✅ Found 3 triplets in dialogue 214
+[{"x": "Speaker 1", "y": "California", "r": "per:origin", "x_type": "per", "y_type": "string"}, {"x": "Speaker 1", "y": "Monica", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[212 ⚠️ No triplets extracted for dialogue 213
+[{"x": "Mark something", "y": "Bloomingdale's", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+215 ✅ Found 1 triplets in dialogue 216
+[]
+[218 ⚠️ No triplets extracted for dialogue 219
+[{"x": "Phoebe", "y": "Ursula", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Ursula", "y": "restaurant", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Ursula", "y": "Unnamed Spouse", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+219 ✅ Found 3 triplets in dialogue 220
+[]
+[220 ⚠️ No triplets extracted for dialogue 221
+[]
+[225 ⚠️ No triplets extracted for dialogue 226
+[{"x": "Monica", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+224 ✅ Found 1 triplets in dialogue 225
+[{"x": "Speaker 1", "y": "Dr. Robert Pillman", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+[221 ⚠️ No triplets extracted for dialogue 222
+[{"x": "Joe Hill", "y": "Frank Buffay", "r": "per:alternate_names", "x_type": "per", "y_type": "per"}, {"x": "Joe Hill", "y": "Glenda", "r": "per:children", "x_type": "per", "y_type": "per"}]
+222 ✅ Found 2 triplets in dialogue 223
+[{"x": "Joey", "y": "Angela", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+231 ✅ Found 1 triplets in dialogue 232
+[]
+[229 ⚠️ No triplets extracted for dialogue 230
+[{"x": "Speaker 1", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[230 ⚠️ No triplets extracted for dialogue 231
+[{"x": "Mindy", "y": "Speaker 1", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Mindy", "y": "Laurie Schaffer", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Mindy", "y": "Barry", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Barry", "y": "Speaker 1", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+223 ✅ Found 2 triplets in dialogue 224
+[{"x": "Speaker 1", "y": "Tommy", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[227 ⚠️ No triplets extracted for dialogue 228
+[{"x": "Ross", "y": "Rachel", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Speaker 5", "y": "Ross", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Lisa", "y": "Ross", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Dan", "y": "Ross", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+228 ✅ Found 3 triplets in dialogue 229
+[]
+[234 ⚠️ No triplets extracted for dialogue 235
+[{"x": "Carol", "y": "Susan", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+238 ✅ Found 1 triplets in dialogue 239
+[{"x": "Speaker 1", "y": "dad", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Speaker 4", "y": "Ronni", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[226 ⚠️ No triplets extracted for dialogue 227
+[{"x": "Monica", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+237 ✅ Found 1 triplets in dialogue 238
+[{"x": "Monica Bing", "y": "Chandler Bing", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Chandler Bing", "y": "Monica Bing", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Monica Bing", "y": "chef", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Chandler Bing", "y": "advertising", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Monica Bing", "y": "New York", "r": "per:places_lived", "x_type": "per", "y_type": "string"}, {"x": "Chandler Bing", "y": "New York", "r": "per:places_lived", "x_type": "per", "y_type": "string"}]
+232 ✅ Found 6 triplets in dialogue 233
+[{"x": "Speaker 1", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 3", "y": "J-man and Channie's", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+[236 ⚠️ No triplets extracted for dialogue 237
+[{"x": "Speaker 1", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Will", "y": "Subway", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+235 ✅ Found 1 triplets in dialogue 236
+[{"x": "Speaker 1", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Chandler", "r": "per:places_lived", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Speaker 1", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+233 ✅ Found 2 triplets in dialogue 234
+[
+    {"x": "Mr. Stevens", "y": "Elizabeth", "r": "per:children", "x_type": "per", "y_type": "per"},
+    {"x": "Elizabeth", "y": "Mr. Stevens", "r": "per:parents", "x_type": "per", "y_type": "per"},
+    {"x": "Monica", "y": "Ross", "r": "per:siblings", "x_type": "per", "y_type": "per"},
+    {"x": "Ross", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Ross", "y": "children's hospital", "r": "per:places_lived", "x_type": "per", "y_type": "string"}
+]
+239 ✅ Found 5 triplets in dialogue 240
+[{"x": "Joey", "y": "Rachel", "r": "per:student_of", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+240 ✅ Found 2 triplets in dialogue 241
+[{"x": "Ross", "y": "Speaker 2", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[241 ⚠️ No triplets extracted for dialogue 242
+[]
+[244 ⚠️ No triplets extracted for dialogue 245
+[{"x": "Gavin Mitchell", "y": "secretary", "r": "per:title", "x_type": "per", "y_type": "string"}, {"x": "Rachel Green", "y": "secretary", "r": "per:title", "x_type": "per", "y_type": "string"}, {"x": "Rachel Green", "y": "Gavin Mitchell", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Gavin Mitchell", "y": "Mom", "r": "per:parents", "x_type": "per", "y_type": "per"}]
+243 ✅ Found 4 triplets in dialogue 244
+[]
+[249 ⚠️ No triplets extracted for dialogue 250
+[{"x": "Monica", "y": "Maitre D.", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+247 ✅ Found 1 triplets in dialogue 248
+[{"x": "Phoebe", "y": "Rachel Green", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+248 ✅ Found 1 triplets in dialogue 249
+[{"x": "Joey", "y": "grandmother", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Days of Our Lives", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+245 ✅ Found 2 triplets in dialogue 246
+[{"x": "Chandler Bing", "y": "Speaker 2", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[250 ⚠️ No triplets extracted for dialogue 251
+[{"x": "Speaker 1", "y": "Phoebe Buffay", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[253 ⚠️ No triplets extracted for dialogue 254
+[{"x": "Albert", "y": "Speaker 2", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Albert", "y": "botanist", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+246 ✅ Found 1 triplets in dialogue 247
+[{"x": "Joey Tribbiani", "y": "Terry", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+252 ✅ Found 1 triplets in dialogue 253
+[{"x": "Joey Tribbiani", "y": "Frankie", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+251 ✅ Found 1 triplets in dialogue 252
+[{"x": "Tag", "y": "24", "r": "per:age", "x_type": "per", "y_type": "string"}]
+255 ✅ Found 1 triplets in dialogue 256
+[{"x": "Pheebs", "y": "Mike", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Emma", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Pheebs", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Pheebs", "y": "Mon", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Pheebs", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Mon", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Mon", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+242 ✅ Found 8 triplets in dialogue 243
+[{"x": "Ross", "y": "Rachel", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+254 ✅ Found 2 triplets in dialogue 255
+[]
+[259 ⚠️ No triplets extracted for dialogue 260
+[{"x": "Speaker 1", "y": "Mindy", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Speaker 1", "y": "orthodontist", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+[257 ⚠️ No triplets extracted for dialogue 258
+[{"x": "Arthur Fonzerelli", "y": "Fonzie", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}, {"x": "Arthur Fonzerelli", "y": "The Fonz", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+264 ✅ Found 2 triplets in dialogue 265
+[{"x": "Ross", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Missy Goldberg", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Chandler", "y": "Adrienne Turner", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Adrienne Turner", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+258 ✅ Found 4 triplets in dialogue 259
+[
+    {"x": "Phoebe", "y": "Mike", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Bob Greenmore", "y": "deceased", "r": "per:death_date", "x_type": "per", "y_type": "string"},
+    {"x": "Jethro Tull", "y": "band", "r": "per:profession", "x_type": "org", "y_type": "string"}
+]
+261 ✅ Found 3 triplets in dialogue 262
+[{"x": "Just Janice", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 2", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+263 ✅ Found 1 triplets in dialogue 264
+[{"x": "Ross", "y": "uncle", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "London", "r": "per:places_lived", "x_type": "per", "y_type": "string"}]
+262 ✅ Found 2 triplets in dialogue 263
+[{"x": "Rachel", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross Geller", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross Geller", "y": "Monica", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Ross Geller", "y": "Doctor", "r": "per:title", "x_type": "per", "y_type": "string"}, {"x": "Monica", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+256 ✅ Found 6 triplets in dialogue 257
+[]
+[268 ⚠️ No triplets extracted for dialogue 269
+[]
+[265 ⚠️ No triplets extracted for dialogue 266
+[{"x": "Speaker 2", "y": "Rachel", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[269 ⚠️ No triplets extracted for dialogue 270
+[{"x": "Rach", "y": "Raquel", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}, {"x": "Rach", "y": "Rocky", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}, {"x": "Speaker 3", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rach", "y": "Speaker 3", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rach", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+260 ✅ Found 3 triplets in dialogue 261
+[{"x": "Speaker 2", "y": "Speaker 3", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[266 ⚠️ No triplets extracted for dialogue 267
+[{"x": "Joey", "y": "Pheebs", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+270 ✅ Found 1 triplets in dialogue 271
+[]
+[273 ⚠️ No triplets extracted for dialogue 274
+[]
+[272 ⚠️ No triplets extracted for dialogue 273
+[{"x": "Ross", "y": "Julie", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Speaker 4", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+267 ✅ Found 2 triplets in dialogue 268
+[{"x": "Rachel", "y": "Gavin", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Ross", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+274 ✅ Found 2 triplets in dialogue 275
+[{"x": "Dr. Geller", "y": "Paleontology Department", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+275 ✅ Found 1 triplets in dialogue 276
+[{"x": "Ross", "y": "his sister", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+277 ✅ Found 1 triplets in dialogue 278
+[{"x": "Ross", "y": "paleontologist", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+271 ✅ Found 1 triplets in dialogue 272
+[]
+[282 ⚠️ No triplets extracted for dialogue 283
+[{"x": "Speaker 1", "y": "Speaker 2", "r": "per:alternate_names", "x_type": "per", "y_type": "per"}]
+[280 ⚠️ No triplets extracted for dialogue 281
+[]
+[283 ⚠️ No triplets extracted for dialogue 284
+[]
+[{"x": "Chandler", "y": "ad agency", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Nate", "y": "ad agency", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Chandler", "y": "Charlie", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[287 ⚠️ No triplets extracted for dialogue 288
+281 ✅ Found 3 triplets in dialogue 282
+[{"x": "Speaker 1", "y": "Ben", "r": "per:children", "x_type": "per", "y_type": "per"}]
+[286 ⚠️ No triplets extracted for dialogue 287
+[{"x": "Leslie", "y": "Speaker 1", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[279 ⚠️ No triplets extracted for dialogue 280
+[{"x": "Monica", "y": "Ross", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+278 ✅ Found 3 triplets in dialogue 279
+[{"x": "Rachel", "y": "Ross", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Ross", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+288 ✅ Found 2 triplets in dialogue 289
+[{"x": "Chip Matthews", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Chip Matthews", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+284 ✅ Found 2 triplets in dialogue 285
+[{"x": "Jo", "y": "Laurie", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Laurie", "y": "Amy", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Jo", "y": "Laurie", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Little Women", "r": "per:employee_of", "x_type": "per", "y_type": "string"}]
+276 ✅ Found 4 triplets in dialogue 277
+[{"x": "Monica", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Chip Matthews", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Chip Matthews", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Chip Matthews", "y": "Amy Welch", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Rachel", "r": "per:schools_attended", "x_type": "per", "y_type": "per"}]
+289 ✅ Found 5 triplets in dialogue 290
+[{"x": "Gary", "y": "upstairs", "r": "per:places_lived", "x_type": "per", "y_type": "string"}]
+296 ✅ Found 1 triplets in dialogue 297
+[]
+[292 ⚠️ No triplets extracted for dialogue 293
+[{"x": "Phoebe", "y": "Pottery Barn", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Phoebe", "y": "twin", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+295 ✅ Found 2 triplets in dialogue 296
+[{"x": "Ned", "y": "Mr. Morse", "r": "per:student_of", "x_type": "per", "y_type": "per"}]
+294 ✅ Found 1 triplets in dialogue 295
+[
+    {"x": "Lowell", "y": "Financial Services", "r": "per:employee_of", "x_type": "per", "y_type": "org"},
+    {"x": "Brian", "y": "Payroll", "r": "per:employee_of", "x_type": "per", "y_type": "org"}
+]
+290 ✅ Found 2 triplets in dialogue 291
+[]
+[291 ⚠️ No triplets extracted for dialogue 292
+[{"x": "Rachel", "y": "Emma", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Phoebe", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Mike", "y": "Phoebe", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Mike", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+285 ✅ Found 4 triplets in dialogue 286
+[{"x": "Jack", "y": "Speaker 3", "r": "per:children", "x_type": "per", "y_type": "per"}]
+[299 ⚠️ No triplets extracted for dialogue 300
+[{"x": "Buffay", "y": "Hannigan", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Buffay", "y": "Buffay-Hannigan", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}, {"x": "Buffay", "y": "Hannigan-Buffay", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+293 ✅ Found 3 triplets in dialogue 294
+[{"x": "Rachel", "y": "Sarah", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Mandy", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Mandy", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+297 ✅ Found 4 triplets in dialogue 298
+[{"x": "Ross", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+305 ✅ Found 1 triplets in dialogue 306
+[{"x": "Phoebe Buffay", "y": "Joey Tribbiani", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Phoebe Buffay", "y": "Monica Geller", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+303 ✅ Found 2 triplets in dialogue 304
+[{"x": "Monica", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Monica", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+302 ✅ Found 3 triplets in dialogue 303
+[{"x": "Ross", "y": "Judy", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Richard", "y": "Unnamed Son", "r": "per:children", "x_type": "per", "y_type": "per"}]
+301 ✅ Found 2 triplets in dialogue 302
+[]
+[307 ⚠️ No triplets extracted for dialogue 308
+[{"x": "Joe Tribbiani", "y": "Rachel Green", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joe Tribbiani", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+304 ✅ Found 2 triplets in dialogue 305
+[
+    {"x": "Speaker 1", "y": "Ben", "r": "per:other_family", "x_type": "per", "y_type": "per"},
+    {"x": "Susan", "y": "Emily", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Susan", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Susan", "y": "Carol", "r": "per:spouse", "x_type": "per", "y_type": "per"}
+]
+298 ✅ Found 2 triplets in dialogue 299
+[]
+[309 ⚠️ No triplets extracted for dialogue 310
+[]
+[310 ⚠️ No triplets extracted for dialogue 311
+[{"x": "Ross", "y": "Mona", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Mona", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+300 ✅ Found 3 triplets in dialogue 301
+[
+    {"x": "Speaker 2", "y": "Speaker 1", "r": "per:children", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Speaker 2's mother", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 2's mother", "y": "Speaker 1", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 2's mother", "y": "Speaker 2's grandfather", "r": "per:children", "x_type": "per", "y_type": "per"}
+]
+[306 ⚠️ No triplets extracted for dialogue 307
+[]
+[312 ⚠️ No triplets extracted for dialogue 313
+[]
+[316 ⚠️ No triplets extracted for dialogue 317
+[]
+[314 ⚠️ No triplets extracted for dialogue 315
+[{"x": "Joey", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Chandler", "y": "Kathy", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+308 ✅ Found 2 triplets in dialogue 309
+[{"x": "Chandler", "y": "Monica", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+317 ✅ Found 1 triplets in dialogue 318
+[{"x": "Speaker 1", "y": "Ross", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 3", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Speaker 3", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+311 ✅ Found 1 triplets in dialogue 312
+[{"x": "Ginger", "y": "Pheebs", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+320 ✅ Found 1 triplets in dialogue 321
+[{"x": "Speaker 2", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[315 ⚠️ No triplets extracted for dialogue 316
+[{"x": "Joe", "y": "Speaker 1", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[318 ⚠️ No triplets extracted for dialogue 319
+[{"x": "Speaker 2", "y": "Joshua", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[323 ⚠️ No triplets extracted for dialogue 324
+[]
+[326 ⚠️ No triplets extracted for dialogue 327
+[{"x": "Chandler", "y": "Monica", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Chandler", "y": "Monica", "r": "per:siblings", "x_type": "per", "y_type": "per"}]
+322 ✅ Found 2 triplets in dialogue 323
+[{"x": "Phoebe", "y": "Ralph Lauren", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "her office", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+325 ✅ Found 2 triplets in dialogue 326
+[{"x": "Joey", "y": "Hayley", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Gunther", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+321 ✅ Found 2 triplets in dialogue 322
+[{"x": "Dr. Drake Remoray", "y": "doctor", "r": "per:profession", "x_type": "per", "y_type": "string"}]
+327 ✅ Found 1 triplets in dialogue 328
+[
+    {"x": "Barry Farber", "y": "Rachel Green", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Barry Farber", "y": "Mindy", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Bernice", "y": "Barry Farber", "r": "per:employee_of", "x_type": "per", "y_type": "per"},
+    {"x": "Bobby Rush", "y": "Barry Farber", "r": "per:patient_of", "x_type": "per", "y_type": "per"}
+]
+Skipping invalid relation type: per:patient_of
+313 ✅ Found 3 triplets in dialogue 314
+[{"x": "Chan", "y": "N.Y.U. Med School", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+330 ✅ Found 1 triplets in dialogue 331
+[]
+[331 ⚠️ No triplets extracted for dialogue 332
+[{"x": "Dave Thomas", "y": "Wendy's", "r": "per:employee_of", "x_type": "per", "y_type": "org"}]
+334 ✅ Found 1 triplets in dialogue 335
+[{"x": "Joey Tribbiani", "y": "Monica", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "Emma", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Emma", "r": "per:children", "x_type": "per", "y_type": "per"}, {"x": "Rachel", "y": "Rach", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+324 ✅ Found 4 triplets in dialogue 325
+[{"x": "Rachel", "y": "Amy", "r": "per:siblings", "x_type": "per", "y_type": "per"}, {"x": "Amy", "y": "Emma", "r": "per:other_family", "x_type": "per", "y_type": "per"}]
+329 ✅ Found 2 triplets in dialogue 330
+[
+    {"x": "Monica", "y": "Jack", "r": "per:parents", "x_type": "per", "y_type": "per"},
+    {"x": "Monica", "y": "Chandler", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Monica", "y": "Richard", "r": "per:other_family", "x_type": "per", "y_type": "per"}
+]
+328 ✅ Found 3 triplets in dialogue 329
+[{"x": "Chandler", "y": "Monica", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+319 ✅ Found 2 triplets in dialogue 320
+[{"x": "Speaker 1", "y": "Rachel", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[336 ⚠️ No triplets extracted for dialogue 337
+[{"x": "Speaker 1", "y": "Carol", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+[338 ⚠️ No triplets extracted for dialogue 339
+[{"x": "Speaker 1", "y": "Lebanon", "r": "per:origin", "x_type": "per", "y_type": "string"}]
+[335 ⚠️ No triplets extracted for dialogue 336
+[{"x": "Joe", "y": "professional actor", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Rach", "y": "Joe", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+333 ✅ Found 2 triplets in dialogue 334
+[]
+[340 ⚠️ No triplets extracted for dialogue 341
+[{"x": "Chandler", "y": "Monica", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Phoebe", "y": "Pheebs", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+339 ✅ Found 2 triplets in dialogue 340
+[{"x": "Speaker 1", "y": "Speaker 2", "r": "per:children", "x_type": "per", "y_type": "per"}]
+[337 ⚠️ No triplets extracted for dialogue 338
+[
+    {"x": "Ross", "y": "Speaker 1", "r": "per:siblings", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Chandler", "r": "per:friends", "x_type": "per", "y_type": "per"},
+    {"x": "Speaker 1", "y": "Tim", "r": "per:friends", "x_type": "per", "y_type": "per"}
+]
+[332 ⚠️ No triplets extracted for dialogue 333
+[{"x": "Joey Tribbiani", "y": "Ms. Monroe", "r": "per:employee_of", "x_type": "per", "y_type": "per"}]
+343 ✅ Found 1 triplets in dialogue 344
+[
+    {"x": "Rachel", "y": "Barry Farber", "r": "per:spouse", "x_type": "per", "y_type": "per"},
+    {"x": "Rachel", "y": "Min", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}
+]
+344 ✅ Found 2 triplets in dialogue 345
+[]
+[347 ⚠️ No triplets extracted for dialogue 348
+[{"x": "Joey", "y": "waiter", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Rachel", "y": "waiter", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Joey", "y": "Rachel", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Joey", "y": "Ross", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+342 ✅ Found 4 triplets in dialogue 343
+[{"x": "Chandler", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+346 ✅ Found 1 triplets in dialogue 347
+[{"x": "Ross", "y": "Rach", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Isabella Rosselini", "r": "per:alternate_names", "x_type": "per", "y_type": "per"}]
+341 ✅ Found 2 triplets in dialogue 342
+[{"x": "Speaker 4", "y": "Speaker 4's mother", "r": "per:parents", "x_type": "per", "y_type": "per"}, {"x": "Speaker 4", "y": "Debbie", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+[348 ⚠️ No triplets extracted for dialogue 349
+[{"x": "Ross", "y": "Joey", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+345 ✅ Found 1 triplets in dialogue 346
+[]
+[352 ⚠️ No triplets extracted for dialogue 353
+[{"x": "Joey", "y": "Speaker 1", "r": "per:places_lived", "x_type": "per", "y_type": "per"}]
+[351 ⚠️ No triplets extracted for dialogue 352
+[{"x": "Chandler Bing", "y": "Boss Man Bing", "r": "per:title", "x_type": "per", "y_type": "string"}]
+350 ✅ Found 1 triplets in dialogue 351
+[]
+[357 ⚠️ No triplets extracted for dialogue 358
+[{"x": "Phoebe", "y": "Ben", "r": "per:other_family", "x_type": "per", "y_type": "per"}, {"x": "Ben", "y": "Doug", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Sting", "y": "Jack", "r": "per:children", "x_type": "per", "y_type": "per"}]
+353 ✅ Found 3 triplets in dialogue 354
+[{"x": "Jill Goodacre", "y": "Victoria's Secret", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Jill Goodacre", "y": "model", "r": "per:profession", "x_type": "per", "y_type": "string"}, {"x": "Jill Goodacre", "y": "Something Goodacre", "r": "per:alternate_names", "x_type": "per", "y_type": "string"}]
+356 ✅ Found 3 triplets in dialogue 357
+[{"x": "Ross", "y": "Phoebe", "r": "per:friends", "x_type": "per", "y_type": "per"}, {"x": "Ross", "y": "Speaker 1", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+349 ✅ Found 1 triplets in dialogue 350
+[{"x": "Lauren", "y": "Kate", "r": "per:employee_of", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "Dr. Drake Remoray", "r": "per:alternate_names", "x_type": "per", "y_type": "per"}, {"x": "Joey Tribbiani", "y": "Days of Our Lives", "r": "per:employee_of", "x_type": "per", "y_type": "org"}, {"x": "Joey Tribbiani", "y": "Speaker 5", "r": "per:friends", "x_type": "per", "y_type": "per"}]
+355 ✅ Found 3 triplets in dialogue 356
+[{"x": "Ross", "y": "Carol", "r": "per:spouse", "x_type": "per", "y_type": "per"}, {"x": "Carol", "y": "Susan", "r": "per:spouse", "x_type": "per", "y_type": "per"}]
+354 ✅ Found 2 triplets in dialogue 355

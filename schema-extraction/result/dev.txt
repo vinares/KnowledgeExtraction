@@ -1,0 +1,428 @@
+Joey Tribbiani||Estelle||per:employee_of
+Phoebe Buffay||Joey Tribbiani||per:friends
+Rachel Green||Emma||per:parents
+Rachel Green||Ross Geller||per:siblings
+Jack Geller||Ross Geller||per:parents
+Judy Geller||Ross Geller||per:parents
+Joey Tribbiani||Rachel Green||per:friends
+Rachel||Ross||per:places_lived
+David||Phoebe||per:spouse
+Monica||Phoebe||per:friends
+Phoebe||Mike Hanagen||per:friends
+Pete Becker||Moss 865||per:profession
+Ross Geller||Ph.D.||per:title
+Phoebe||Tag||per:friends
+Rachel Green||Ross||per:spouse
+Rachel Green||Joanna||per:employee_of
+Mark||Joanna||per:employee_of
+Rachel||Joshua||per:friends
+Rachel||Ross||per:friends
+Rachel||Emily||per:friends
+Tim||sous chef||per:title
+Tim||Monica||per:employee_of
+Monica||Tim||per:employee_of
+Phoebe||Ursula||per:siblings
+Eric||Ursula||per:spouse
+Eric||Teacher||per:profession
+Phoebe||Masseuse||per:profession
+Ross||Cassie||per:other_family
+Monica||Tim||per:employee_of
+Monica||Phoebe||per:friends
+Phoebe||Tim||per:spouse
+Rachel Green||Tag||per:employee_of
+Phoebe||Tag||per:friends
+Rachel Green||Phoebe||per:friends
+Chandler||Aurora||per:friends
+Chandler||Chand-lrr||per:alternate_names
+Ross||Rachel||per:friends
+Ross||Rachel||per:children
+Rachel||Rachel's father||per:parents
+Ross||Mona||per:friends
+Rachel||Mona||per:friends
+Rachel||Melissa||per:friends
+Rachel||Ross||per:spouse
+Estelle||Joey||per:employee_of
+Joey||Ross||per:friends
+Joey||Rachel||per:other_family
+Chandler Bing||Joey||per:friends
+Rachel||Monica Geller||per:friends
+Rachel||Ross||per:spouse
+Phoebe||Pheebs||per:alternate_names
+Joey||Jane Rogers||per:friends
+Rachel Green||Will||per:schools_attended
+Will||The I Hate Rachel Green Club||per:member_of
+Ross||The I Hate Rachel Green Club||per:member_of
+Joey||Phoebe||per:employee_of
+Joey Tribbiani||Days of Our Lives||per:employee_of
+Joey Tribbiani||Phoebe Buffay||per:friends
+Ross||Rachel||per:friends
+Jessica Ashley||Jess||per:alternate_names
+Joey||Emma||per:other_family
+Emma||Joey||per:friends
+Ross||Chloe||per:friends
+Ross||Rachel Green||per:friends
+Dr. Carlin||medicine||per:profession
+Ross||PhD||per:title
+Rachel||Mr. Zelner||per:employee_of
+Gavin||Mr. Zelner||per:employee_of
+Ross||Ross's sister||per:siblings
+Chandler||Ross||per:friends
+Susan||Ben||per:parents
+Susan||Carol||per:spouse
+Jenny Boone||teacher||per:profession
+Carol||Susan||per:spouse
+Carol||Susan||per:spouse
+Ross||Unborn Child||per:parents
+Carol||Unborn Child||per:parents
+Susan||Unborn Child||per:parents
+Gary||NYPD||per:employee_of
+Paul||Paul the Wine Guy||per:alternate_names
+Janice||her ex-husband||per:spouse
+Rachel||Emily||per:friends
+Joey||Rachel||per:employee_of
+Rachel||Joey||per:employee_of
+Joey||the other man||per:friends
+Chris||crematorium||per:profession
+Chris||Crematorium Chris||per:alternate_names
+Amber||Ramone||per:siblings
+Phoebe||Joey||per:friends
+Joey||Charlie||per:spouse
+Phoebe||Joey||per:other_family
+Kurt Rathman||professor||per:profession
+Kurt Rathman||paleontology department||per:employee_of
+Ross||Caitlin||per:friends
+Patrick Ewing||New York Knicks||per:employee_of
+Ross||Rachel||per:friends
+Ross||Rachel||per:other_family
+Ross||China||per:places_lived
+Heckles||class clown||per:title
+Chandler||Heckles||per:friends
+Mark||fashion||per:profession
+Ross||Joey||per:friends
+Chandler Bing||Joe||per:alternate_names
+Chandler Bing||Monica||per:spouse
+Monica||Phoebe||per:friends
+Rachel||Ralph Lauren||per:employee_of
+Joey||Days of Our Lives||per:employee_of
+Mona||Joey||per:friends
+Rachel||May fifth||per:date_of_birth
+Ross||Rachel||per:children
+Ross||Mona||per:spouse
+Rachel||Ross||per:friends
+Joey||Rachel||per:friends
+Joey||Ross||per:friends
+Rachel Green||her father||per:parents
+Ross Geller||Doctor||per:profession
+Rachel Green||Ross Geller||per:friends
+Chandler||processing supervisor||per:title
+Chandler||big Al||per:employee_of
+big Al||Chandler||org:top_members/employees
+Chandler Bing||Sonia||per:employee_of
+Rachel||Phoebe||per:friends
+Ross||Rachel||per:spouse
+Chloe||Issac||per:employee_of
+Issac||Jasmine||per:siblings
+Jasmine||Phoebe||per:employee_of
+Phoebe||Rachel||per:friends
+Ross||Phoebe||per:friends
+Ross||Chandler||per:friends
+Ross||Joey||per:friends
+Chandler||Rachel||per:friends
+Chandler||Rachel||per:other_family
+Rachel Green||Emma||per:children
+Dr. Gettleman||Doctor||per:profession
+Chandler||Monica||per:spouse
+Joey||Rachel||per:friends
+Ross||Charlie||per:friends
+Ross||Rachel||per:friends
+Ross||paleontologist||per:profession
+Phoebe||Rachel||per:friends
+Monica||mother||per:parents
+Monica||father||per:parents
+Ross||Rachel||per:spouse
+Ross||mother||per:parents
+Ross||father||per:parents
+Ross||Nana||per:other_family
+Monica||Nana||per:other_family
+Rachel||Phoebe||per:friends
+Rachel||Rach||per:alternate_names
+Monica||Chandler||per:spouse
+Monica||Richard||per:spouse
+Michelle||Henry||per:children
+Chandler||Monica||per:friends
+Chandler||London||per:places_lived
+Monica||London||per:places_lived
+Russell||Ross||per:employee_of
+Ross||Rachel||per:spouse
+Ross||Ross's wife||per:spouse
+Ned||Mr. Morse||per:student_of
+Chandler||Monica||per:friends
+Ross||Monica||per:siblings
+Rachel||Rachel's sister||per:siblings
+Phoebe||Phoebe's grandmother||per:other_family
+Ross||Rachel||per:friends
+Doctor||Reverend||per:spouse
+Doctor||doctor||per:profession
+Reverend||reverend||per:profession
+Chandler||Monica||per:spouse
+Monica||Chandler||per:spouse
+Joey||Monica||per:friends
+Joey||Chandler||per:friends
+Phoebe||masseuse||per:profession
+Phoebe||corporate employee||per:profession
+Mr. Bing||Mrs. Bing||per:spouse
+Chandler Bing||Janice||per:spouse
+Phoebe||Mike||per:spouse
+Phoebe||Monica||per:friends
+Dr. Drake Remore||neurosurgeon||per:title
+Chandler||Fred Sanford||per:spouse
+Joey||Lennart Haze||per:employee_of
+Chandler||Ben||per:other_family
+Ross||Emma||per:children
+Pheebs||The Wheatsheaf||per:places_lived
+Doctor Connelly||Doctor||per:title
+Joey||Eddie||per:friends
+Eddie||Chandler||per:friends
+Jack||Jack Bing||per:children
+Erica||Erica||per:children
+Andr||Nathan||per:other_family
+Phoebe||Ross||per:friends
+Whitney||Kyle||per:spouse
+Joey Tribbiani||Chandler||per:friends
+Joey Tribbiani||Monica||per:friends
+Joey Tribbiani||Phoebe||per:friends
+Joey Tribbiani||Rachel||per:friends
+Joey Tribbiani||his parents||per:parents
+Rachel||Ross||per:friends
+Ross||Emily||per:spouse
+Phoebe Buffay||Ross||per:friends
+Monica||Ross||per:siblings
+Chandler||boss||per:title
+Chandler||his employees||per:employee_of
+Ross||Monica||per:siblings
+Ross||Rachel||per:friends
+Ross||Will||per:friends
+Ross||Rachel||per:spouse
+Ross||I Hate Rachel Club||per:member_of
+Will||I Hate Rachel Club||per:member_of
+Ross||I Hate Rachel Club||org:founded_by
+Phoebe||Pheebs||per:alternate_names
+Phoebe||New School||per:student_of
+Joe||Italy||per:origin
+Monica Geller||Stevie Fisher||per:other_family
+Stevie Fisher||lawyer||per:profession
+Stevie Fisher||his firm||per:employee_of
+Ross||Whitney||per:friends
+Phoebe||Ursula||per:siblings
+Joey||Ursula||per:other_family
+Phoebe||Joey||per:friends
+Joey Tribbiani||Days Of Our Lives||per:employee_of
+Celia||museum||per:employee_of
+Monica||Richard||per:spouse
+Chandler||Janice||per:spouse
+Monica||Chandler||per:friends
+Monica||Janice||per:friends
+Monica||Joey||per:friends
+Chandler||Joey||per:friends
+Janice||Joey||per:friends
+Joey||actor||per:profession
+Joey||Queens||per:places_lived
+Joey||seven sisters||per:siblings
+Rachel||Monica||per:friends
+Rachel||Phoebe||per:friends
+Ross||Julie||per:friends
+Monica||Chandler||per:spouse
+Ross||Emily||per:spouse
+Joey Tribbiani||Ross||per:friends
+Joey Tribbiani||New York City||per:places_lived
+Monica||super aunt||per:title
+Mark something||Bloomingdale's||per:employee_of
+Monica||Ben||per:other_family
+Phoebe||Ursula||per:siblings
+Ursula||restaurant||per:employee_of
+Ursula||Unnamed Spouse||per:spouse
+Joe Hill||Frank Buffay||per:alternate_names
+Joe Hill||Glenda||per:children
+Mindy||Laurie Schaffer||per:friends
+Mindy||Barry||per:spouse
+Monica||Chandler||per:spouse
+Ross||Rachel||per:spouse
+Lisa||Ross||per:other_family
+Dan||Ross||per:other_family
+Joey||Angela||per:friends
+Monica Bing||Chandler Bing||per:spouse
+Chandler Bing||Monica Bing||per:spouse
+Monica Bing||chef||per:profession
+Chandler Bing||advertising||per:profession
+Monica Bing||New York||per:places_lived
+Chandler Bing||New York||per:places_lived
+Joey||Chandler||per:friends
+Joey||Chandler||per:places_lived
+Will||Subway||per:employee_of
+Monica||Chandler||per:spouse
+Carol||Susan||per:spouse
+Mr. Stevens||Elizabeth||per:children
+Elizabeth||Mr. Stevens||per:parents
+Monica||Ross||per:siblings
+Ross||Chandler||per:friends
+Ross||children's hospital||per:places_lived
+Joey||Rachel||per:student_of
+Joey||Chandler||per:friends
+Pheebs||Mike||per:spouse
+Rachel||Emma||per:children
+Pheebs||Rachel||per:friends
+Pheebs||Mon||per:friends
+Pheebs||Chandler||per:friends
+Rachel||Mon||per:friends
+Rachel||Chandler||per:friends
+Mon||Chandler||per:spouse
+Gavin Mitchell||secretary||per:title
+Rachel Green||secretary||per:title
+Rachel Green||Gavin Mitchell||per:employee_of
+Gavin Mitchell||Mom||per:parents
+Joey||grandmother||per:other_family
+Joey||Days of Our Lives||per:employee_of
+Albert||botanist||per:profession
+Monica||Maitre D.||per:employee_of
+Phoebe||Rachel Green||per:employee_of
+Joey Tribbiani||Frankie||per:friends
+Joey Tribbiani||Terry||per:friends
+Ross||Rachel||per:spouse
+Ross||Rachel||per:friends
+Tag||24||per:age
+Rachel||Monica||per:friends
+Rachel||Chandler||per:friends
+Ross Geller||Chandler||per:friends
+Ross Geller||Monica||per:siblings
+Ross Geller||Doctor||per:title
+Monica||Chandler||per:spouse
+Ross||Chandler||per:friends
+Ross||Missy Goldberg||per:other_family
+Chandler||Adrienne Turner||per:other_family
+Ross||Adrienne Turner||per:other_family
+Rach||Raquel||per:alternate_names
+Rach||Rocky||per:alternate_names
+Rach||Chandler||per:friends
+Phoebe||Mike||per:spouse
+Bob Greenmore||deceased||per:death_date
+Jethro Tull||band||per:profession
+Ross||uncle||per:other_family
+Ross||London||per:places_lived
+Just Janice||Joey||per:friends
+Arthur Fonzerelli||Fonzie||per:alternate_names
+Arthur Fonzerelli||The Fonz||per:alternate_names
+Ross||Julie||per:friends
+Ross||Rachel||per:friends
+Joey||Pheebs||per:friends
+Ross||paleontologist||per:profession
+Rachel||Gavin||per:employee_of
+Rachel||Ross||per:spouse
+Dr. Geller||Paleontology Department||per:employee_of
+Jo||Laurie||per:friends
+Laurie||Amy||per:spouse
+Jo||Laurie||per:other_family
+Rachel||Little Women||per:employee_of
+Ross||his sister||per:siblings
+Monica||Ross||per:siblings
+Monica||Chandler||per:spouse
+Monica||Chandler||per:friends
+Chandler||ad agency||per:employee_of
+Nate||ad agency||per:employee_of
+Chandler||Charlie||per:friends
+Chip Matthews||Monica||per:friends
+Chip Matthews||Rachel||per:friends
+Rachel||Emma||per:children
+Phoebe||Rachel||per:friends
+Mike||Phoebe||per:spouse
+Ross||Mike||per:friends
+Rachel||Ross||per:spouse
+Monica||Ross||per:siblings
+Monica||Rachel||per:friends
+Rachel||Chip Matthews||per:other_family
+Monica||Chip Matthews||per:friends
+Chip Matthews||Amy Welch||per:other_family
+Monica||Rachel||per:schools_attended
+Lowell||Financial Services||per:employee_of
+Brian||Payroll||per:employee_of
+Buffay||Hannigan||per:spouse
+Buffay||Buffay-Hannigan||per:alternate_names
+Buffay||Hannigan-Buffay||per:alternate_names
+Ned||Mr. Morse||per:student_of
+Phoebe||Pottery Barn||per:employee_of
+Phoebe||twin||per:siblings
+Gary||upstairs||per:places_lived
+Rachel||Sarah||per:friends
+Rachel||Mandy||per:friends
+Joey||Mandy||per:other_family
+Joey||Rachel||per:friends
+Susan||Emily||per:friends
+Susan||Carol||per:spouse
+Ross||Mona||per:spouse
+Ross||Joey||per:friends
+Joey||Mona||per:friends
+Ross||Judy||per:children
+Richard||Unnamed Son||per:children
+Monica||Ross||per:friends
+Monica||Phoebe||per:friends
+Ross||Phoebe||per:friends
+Phoebe Buffay||Joey Tribbiani||per:friends
+Phoebe Buffay||Monica Geller||per:friends
+Joe Tribbiani||Rachel Green||per:friends
+Joe Tribbiani||Ross||per:friends
+Ross||Rachel||per:friends
+Joey||Chandler||per:friends
+Chandler||Kathy||per:spouse
+Rachel||Ross||per:friends
+Barry Farber||Rachel Green||per:friends
+Barry Farber||Mindy||per:spouse
+Bernice||Barry Farber||per:employee_of
+Chandler||Monica||per:spouse
+Chandler||Monica||per:spouse
+Joey||Chandler||per:friends
+Ginger||Pheebs||per:friends
+Joey||Hayley||per:friends
+Joey||Gunther||per:friends
+Chandler||Monica||per:spouse
+Chandler||Monica||per:siblings
+Joey Tribbiani||Monica||per:friends
+Joey Tribbiani||Emma||per:children
+Rachel||Emma||per:children
+Rachel||Rach||per:alternate_names
+Phoebe||Ralph Lauren||per:friends
+Rachel||her office||per:employee_of
+Dr. Drake Remoray||doctor||per:profession
+Monica||Jack||per:parents
+Monica||Chandler||per:spouse
+Monica||Richard||per:other_family
+Rachel||Amy||per:siblings
+Amy||Emma||per:other_family
+Chan||N.Y.U. Med School||per:employee_of
+Joe||professional actor||per:profession
+Rach||Joe||per:employee_of
+Dave Thomas||Wendy's||per:employee_of
+Chandler||Monica||per:spouse
+Phoebe||Pheebs||per:alternate_names
+Ross||Rach||per:spouse
+Ross||Isabella Rosselini||per:alternate_names
+Joey||waiter||per:profession
+Rachel||waiter||per:profession
+Joey||Rachel||per:friends
+Joey||Ross||per:friends
+Joey Tribbiani||Ms. Monroe||per:employee_of
+Rachel||Barry Farber||per:spouse
+Rachel||Min||per:alternate_names
+Ross||Joey||per:friends
+Chandler||Joey||per:friends
+Ross||Phoebe||per:friends
+Chandler Bing||Boss Man Bing||per:title
+Phoebe||Ben||per:other_family
+Ben||Doug||per:friends
+Sting||Jack||per:children
+Ross||Carol||per:spouse
+Carol||Susan||per:spouse
+Lauren||Kate||per:employee_of
+Joey Tribbiani||Dr. Drake Remoray||per:alternate_names
+Joey Tribbiani||Days of Our Lives||per:employee_of
+Jill Goodacre||Victoria's Secret||per:employee_of
+Jill Goodacre||model||per:profession
+Jill Goodacre||Something Goodacre||per:alternate_names
