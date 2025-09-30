@@ -31,7 +31,7 @@ async def process_episodes(dialogues, extractor):
 def main():
     # Configure the OpenAI LM
     # dspy.configure(lm=dspy.LM("openai/gpt-3.5-turbo"), api_key=OPEN)
-    dspy.configure(lm=dspy.LM("openai/gpt-4-turbo"), api_key=OPEN)
+    dspy.configure(lm=dspy.LM("gpt-4.1-mini"), api_key=OPEN)
 
     # Instantiate the predictor
     extractor = OptimizedRelationExtractor()

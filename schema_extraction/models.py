@@ -219,3 +219,29 @@ class OptimizedRelationExtractor(dspy.Module):
             'problem', 'someone', 'anybody', 'everyone', 'people'
         }
         return entity.lower() in generic_terms
+    
+    
+class QuestionAnswerAgentWithRelationSignature(dspy.Signature):
+    """
+    """
+    question_text: str = dspy.InputField(desc="question text")
+    entity_relations: List[str] = dspy.InputField(
+        desc="List of relations in format 'entity1||entity2||relation'",
+        default=[]
+    )
+    answer: str = dspy.OutputField(
+        desc="Answer to the question based on the relations." \
+        "CRTICAL: If the relations between entities are unclear, don't search the internet for the question."
+    )
+                
+class QuestionAnswerAgent(dspy.Module):
+    def __init__(self):
+        super().__init__()
+        self.predictor = dspy.ChainOfThought(QuestionAnswerAgentWithRelationSignature)
+    
+    def forward(self, question_text, entity_relations: List[str]):
+        result = self.predictor(
+            question_text=question_text,
+            entity_relations=entity_relations
+        )
+        return result.answer
