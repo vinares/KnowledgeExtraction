@@ -20,6 +20,14 @@ def load_dialogues(path, count=None):
         dialogues.append(item[0])
     return dialogues
 
+def load_relations(path, count=None):
+    ds = load_db(path)
+    count = min(count, len(ds)) if count is not None else len(ds)
+    relations = []
+    for item in ds[:count]:
+        relations.append(item[1])
+    return relations
+
 def save_graph(results, path):
     output_file = Path(path)
     # Ensure parent directory exists
